@@ -7,3 +7,5 @@ By Local Repository
 Another Line By Online Editor (To Use Pull)
 
 Add A Line To Push By Smart Git
+
+Add A Line To To Use Pull By Smart Git
