@@ -1,5 +1,7 @@
 My First Github File
 
-Add a new Line by Online Editor
+Add a new Line by Online Editor (To Use Fetch, Merge)
 
 By Local Repository
+
+Another Line By Online Editor (To Use Pull)
